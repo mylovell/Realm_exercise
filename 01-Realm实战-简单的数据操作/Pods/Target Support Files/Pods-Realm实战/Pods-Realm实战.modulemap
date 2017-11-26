@@ -1,0 +1,6 @@
+framework module Pods_Realm__ {
+  umbrella header "Pods-Realm实战-umbrella.h"
+
+  export *
+  module * { export * }
+}
